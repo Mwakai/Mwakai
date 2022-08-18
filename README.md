@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Mwakai
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Mwakai, an Android developer
 - 📫 How to reach me mwakaimwambala@gmail.com
-
-<!---
-Mwakai/Mwakai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
