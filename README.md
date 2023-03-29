@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Mwakai, an Android developer, Laravel developer
+- 👋 Hi, I’m @Mwakai, an Android developer || Laravel developer
 - 📫 How to reach me mwakaimwambala@gmail.com
