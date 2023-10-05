@@ -4,7 +4,7 @@
 ---
 
 ### :man_technologist: About Me :
-- 👋 Hi, I’m @Mwakai, an Android developer && Laravel developer
+- 👋 Hi, I’m Mwakai, an Android developer && Laravel developer
 - :telescope: I’m working as a Software Engineer and contributing to android and laravel web applications.
 - 📫 How to reach me mwakaimwambala@gmail.com
 ---
