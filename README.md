@@ -13,11 +13,3 @@
 
 # 📊 GitHub Stats:
 ![Mwakai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mwakai&show_icons=true&theme=dark)<br/>
-
----
-<div align="left">
-  <a href="https://wakatime.com/@mwakai_alvin">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mwakai_alvin&layout=compact&theme=dark" alt="Atividade Semanal">
-  </a>
-</div>
-
