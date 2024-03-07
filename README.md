@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m Mwakai, a Software Engineer
 - 💣 My Area of Interests are in Mobile and Web
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Kotlin, Java, Php
 - 📫 How to reach me mwakaimwambala@gmail.com
 ---
